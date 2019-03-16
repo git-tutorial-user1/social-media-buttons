@@ -48,7 +48,7 @@ body {
 }
 
 .btn-social:hover::before {
-    animation: social 1.7s 1;
+    animation: social .7s 1;
     top: -10%;
     left: -10%;
 }
